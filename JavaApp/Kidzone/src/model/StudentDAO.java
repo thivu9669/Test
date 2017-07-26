@@ -27,7 +27,7 @@ public class StudentDAO {
 			ps.setString(5, s.getStandard());
 			ps.setString(6, s.getRegDate());
 		
-
+sdfsfsfsdf
 			// 4. cho thi hanh lenh insert
 
 			int r = ps.executeUpdate();
