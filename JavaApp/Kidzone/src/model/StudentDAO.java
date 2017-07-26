@@ -23,7 +23,8 @@ public class StudentDAO {
 			ps.setString(1, s.getName());
 			ps.setString(2, s.getAddress());
 			ps.setString(3, s.getParentName());
-			ps.setString(4, s.getPhone());
+		
+			gghgjgjhgjhgjhgjh
 			ps.setString(5, s.getStandard());
 			ps.setString(6, s.getRegDate());
 		
